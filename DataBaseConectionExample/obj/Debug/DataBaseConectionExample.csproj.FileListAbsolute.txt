@@ -1,0 +1,15 @@
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\DataBaseConectionExample.exe.config
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\DataBaseConectionExample.exe
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\DataBaseConectionExample.pdb
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\EntityFramework.dll
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\EntityFramework.xml
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.csproj.AssemblyReference.cache
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.Form1.resources
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.Properties.Resources.resources
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.csproj.GenerateResource.cache
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.csproj.CoreCompileInputs.cache
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.csproj.CopyComplete
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.exe
+E:\CSharp Programs\DataBaseConectionExample\DataBaseConectionExample\obj\Debug\DataBaseConectionExample.pdb
